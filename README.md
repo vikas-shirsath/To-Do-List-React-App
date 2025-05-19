@@ -34,7 +34,7 @@ It allows users to add, delete, and reorder their daily tasks with an intuitive 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/todo-react-app.git
+   git clone https://github.com/vikas-shirsath/To-Do-List-React-App.git
    ```
 
 2. **Navigate to the project directory**
